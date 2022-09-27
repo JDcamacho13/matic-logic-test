@@ -1,0 +1,23 @@
+{
+  "name": "matic-logic-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "José Camacho <j.d.camacho27@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  },
+  "typeAcquisition": {
+    "include": [
+      "jest"
+    ]
+  },
+  "dependencies": {
+    "@types/jest": "^29.0.3"
+  }
+}
