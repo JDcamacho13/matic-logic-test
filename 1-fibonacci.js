@@ -10,5 +10,6 @@ function fibonacci(n) {
   return sequence[n]
 }
 
+console.log(fibonacci(12))
 
 module.exports = fibonacci

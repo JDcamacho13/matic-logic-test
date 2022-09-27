@@ -18,4 +18,6 @@ function repeatWords(string) {
   return repeatedWords
 }
 
+console.log(repeatWords('Hi how are things? How are you? Are you a developer? I am also a developer'))
+
 module.exports = repeatWords
